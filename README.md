@@ -10,7 +10,7 @@ wkmeans_no_random.py: The process of obtaining weights based on an improved vers
 
 # Requirements
 ## Dataset Format
-The data folder provides the data used in the experiment. The data and labels are in csv format, with the data file named "X_1_0.csv" and the labels file named "Y_1_0.csv".
+The data folder provides the data used in the experiment. The data and labels are in csv format, with the data file named "_X_1_0.csv" and the labels file named "_Y_1_0.csv".
 ## Usage
 The parameters input to the main function in WGBC_Test_V1.py are as follows:
     keys: The name of the dataset.
